@@ -25,8 +25,8 @@ Can use the below credentials to log in and have a look
 **
 username      password
 
-Aditya        1234
-Harsh         1234
-Priya         1234
-Rohan         1234
+Aditya    -    1234
+Harsh     -    1234
+Priya     -    1234
+Rohan     -    1234
 **
