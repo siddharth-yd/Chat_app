@@ -20,13 +20,3 @@ Then you will be redirected to your account and all groups/communities will be v
 Only Admin will have access to delete the group.
 
 You can also attach images.
-
-Can use the below credentials to log in and have a look
-**
-username      password
-
-Aditya    -    1234,
- Harsh     -    1234,
- Priya     -    1234,
- Rohan     -    1234
-**
